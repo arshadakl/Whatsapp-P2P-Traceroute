@@ -1,0 +1,6 @@
+scapy
+dnspython
+geoip2
+pandas
+colorama
+pyshark
